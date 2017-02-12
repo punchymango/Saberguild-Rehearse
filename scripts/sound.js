@@ -18,8 +18,8 @@ var musicPlayer = {
       tragic : 'assets/audio/music/fight/tragic.mp3'
     },
     force : {
-      fullTrack : 'assets/audio/music/force/SGECCC-Show-Final.mp3',
-      ECCC : 'assets/audio/music/force/SGECCC-Vader-Final.mp3',
+      ECCC : 'assets/audio/music/force/SGECCC-Show-Final.mp3',
+      ECCCVader : 'assets/audio/music/force/SGECCC-Vader-Final.mp3',
       sithFight1 : 'assets/audio/force/SGECCC-Sith-Jedi-1.mp3',
       sithFight2 : 'assets/audio/force/SGECCC-Sith-Jedi-2.mp3'
       }
