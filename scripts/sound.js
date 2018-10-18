@@ -19,7 +19,7 @@ var musicPlayer = {
     },
     force : {
       ForceExp : 'assets/audio/music/force/ForceExpFull.mp3',
-      GGCMelee : 'assets/audio/music/force/Fight-Cut-2.mp3',
+      GGCMelee : 'assets/audio/music/fight/Fight-Cut-2.mp3',
       ECCCPlain : 'assets/audio/music/force/SGECCC-Show-Final.mp3',
       ECCCVader : 'assets/audio/music/force/SGECCC-Vader-Final.mp3',
       sithFight1 : 'assets/audio/music/force/SGECCC-Sith-Jedi-1.mp3',
