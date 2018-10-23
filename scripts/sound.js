@@ -14,12 +14,13 @@ var musicPlayer = {
     fight : {
       darkSide : 'assets/audio/music/fight/dark-edit.mp3',
       dramatic : 'assets/audio/music/fight/dramatic.mp3',
-      epic : '',
+
       tragic : 'assets/audio/music/fight/tragic.mp3'
     },
     force : {
       ForceExp : 'assets/audio/music/force/ForceExpFull.mp3',
       GGCMelee : 'assets/audio/music/fight/Fight-Cut-2.mp3',
+      Pit : 'assets/audio/music/force/MeetMeInThePit-NoIntro.mp3',
       ECCCPlain : 'assets/audio/music/force/SGECCC-Show-Final.mp3',
       ECCCVader : 'assets/audio/music/force/SGECCC-Vader-Final.mp3',
       sithFight1 : 'assets/audio/music/force/SGECCC-Sith-Jedi-1.mp3',
